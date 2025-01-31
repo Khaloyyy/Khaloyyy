@@ -22,11 +22,20 @@
 </div>
 <h1>  </h1>    
 
-<h3 align="center">⚡Language and tools⚡
+<h3 align="center">⚡Language⚡
 
 <p ><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,figma,vscode,androidstudio,dart,flutter" />
+    <img src="https://skillicons.dev/icons?i=java,dart,flutter,html,css,py" />
+  </a>
+</p>
+</h3><br/>
+<h3 align="center"> 🩹 Tools 🩹
+
+
+<p ><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,discord,git" />
   </a>
 </p>
 </h3>
