@@ -44,7 +44,7 @@
 
 <h3 align="center">📊 Stats📊
 <p ><br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khaloyyy&theme=tokyonight-duo&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.vercel.kevinazemi.com?user=Khaloyyy&amp;theme=react&amp;mode=weekly" alt="GitHub Streak"></a></p>
 </p>
 </h3>
 
