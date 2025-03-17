@@ -1,8 +1,10 @@
+
 <h1 align="center">
  I'm Carlo Miguel 😄
 </h1>
 
 <h3  align="center"> 
+ 
  🌱 A Jr. Developer who is still learning and enjoys code🌱
 </h3>
 
@@ -13,6 +15,7 @@
 </h4>
 
 <div align="center">
+ 
   <a href="mailto:carlocabbo11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
@@ -39,14 +42,21 @@
   </a>
 </p>
 </h3>
-
 <h1>  </h1> 
-
+<div align = "center">
+  <img src="https://komarev.com/ghpvc/?username=Khaloyyy&label=Profile%20views&color=red&style=flat-square&logo=visitor-badge" alt="Visitor Count">
+</div>
 <h3 align="center">📊 Stats📊
 <p ><br/>
 <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Khaloyyy&theme=react&hide_longest_streak=true" alt="GitHub Streak" /></a></p>
 </p>
+<p align="center">
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Khaloyyy&theme=react"/>
+ 
+</p>
 </h3>
+
+ 
 
 
 
