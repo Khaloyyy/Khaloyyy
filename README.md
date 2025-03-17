@@ -44,7 +44,7 @@
 </h3>
 <h1>  </h1> 
 <div align = "center">
-  <img src="https://komarev.com/ghpvc/?username=Khaloyyy&label=Profile%20views&color=red&style=flat-square&logo=visitor-badge" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=Khaloyyy&label=Profile%20views&color=5c7fb8&style=flat-square&logo=visitor-badge" alt="Visitor Count">
 </div>
 <h3 align="center">📊 Stats📊
 <p ><br/>
