@@ -29,7 +29,7 @@
 
 <p ><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dart,flutter,html,css,py" />
+    <img src="https://skillicons.dev/icons?i=java,dart,flutter" />
   </a>
 </p>
 </h3><br/>
