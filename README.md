@@ -50,6 +50,9 @@
 <p ><br/>
 <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Khaloyyy&theme=react&hide_longest_streak=true" alt="GitHub Streak" /></a></p>
 </p>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khaloyyy&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="Top Languages" />
+</p>
 <p align="center">
   
  
