@@ -4,7 +4,7 @@
 
 
 <h1 align="center">👋 Hi, I'm Carlo Miguel S. Cabbo! 😄</h1>
-<h3 align="center">🚀 Aspiring Flutter Developer 🚀</h3>
+<h3 align="center">🚀 Frontend Flutter Developer 🚀</h3>
 
 
 <h3 align="center">A Junior Developer on a continuous learning journey, fueled by a genuine enjoyment for crafting code. My primary focus lies in building cross-platform applications with **Dart** and **Flutter**.</h3>
