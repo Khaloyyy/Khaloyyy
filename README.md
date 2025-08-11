@@ -11,10 +11,14 @@
 <br>
 
 
-**Currently Contributing To:**
+**My experinces with flutter:**
 
-
-* Developing web-based applications, expanding my understanding of front-end and potentially back-end technologies.
+* Implemented and managed application state using Providers and Riverpod, ensuring efficient data flow and UI updates within the Flutter application. <br><br>
+* Integrated front-end components with back-end APIs, effectively handling data fetching, display, and user interactions within the Flutter framework.<br><br>
+* Developed reactive and dynamic user interfaces in Flutter, providing real-time updates and engaging user interactions.<br><br>
+* Ensured the maintainability and scalability of the front-end codebase through well-structured Dart code and adherence to architectural best practices.<br><br>
+* Well understanding of Models, Controllers, Router (GoRoute and AutoRoute).<br><br>
+* Well practiced in Clean Architecture code.
 
 **Beyond the Code:**
 
